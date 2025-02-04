@@ -1,2 +1,10 @@
-# Employee-Management
-Employee management using COBOL with file handling
+# employeeManagementSystem
+
+TASKING
+
+ADD EMPLOYEE    - DANIEL
+VIEW EMPLOYEE   - MICHAEL
+SEARCH EMPLOYEE - IVAN
+DELETE EMPLOYEE - SIMONE
+EDIT EMPLOYEE   - GERALD
+
